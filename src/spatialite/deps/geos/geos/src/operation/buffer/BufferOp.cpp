@@ -18,6 +18,7 @@
  *
  **********************************************************************/
 
+#define NOMINMAX
 #include <algorithm>
 #include <cmath>
 
